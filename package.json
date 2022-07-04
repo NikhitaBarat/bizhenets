@@ -2,8 +2,12 @@
   "name": "bizhenets",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
+    "server": "nodemon server.js",
+    "client": "cd client && npm run start",
+    
+
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
