@@ -6,7 +6,7 @@
 
 - ReactJs *Typescript*
 - NodeJs and ExpressJs
-- MongoDB and Redis
+- MongoDB and DynamoDB
 - GraphQL
 
 
