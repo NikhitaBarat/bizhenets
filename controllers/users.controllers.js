@@ -1,6 +1,7 @@
 const AWS = require('aws-sdk')
 const dynamoConfig = require('../dynamo.config');
 const uuid = require('uuid')
+const jwt = require('jsonwebtoken')
 
 // @desc create application
 // @route POST /api/application/create
