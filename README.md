@@ -1,6 +1,6 @@
 <h1 align="center">BIZHENETS</h1>
 
-
+![](./assets/preview.png)
 
 ### Tech stack
 
