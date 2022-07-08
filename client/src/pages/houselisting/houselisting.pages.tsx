@@ -2,7 +2,13 @@ import React from 'react'
 
 const Houselisting = () => {
   return (
-    <div>Houselisting</div>
+    <div>
+      {/* listing categories */}
+
+      {/* Search bar */}
+
+      {/* listed house */}
+    </div>
   )
 }
 
