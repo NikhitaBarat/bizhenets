@@ -1,5 +1,5 @@
 import React from 'react';
-import { Hero } from '../../components';
+import { Hero, Helphero } from '../../components';
 import './home.styles.css';
 
 const Home = () => {
@@ -10,6 +10,7 @@ const Home = () => {
         <div className="spread-2"/>
       </div>
       <Hero />
+      <Helphero/>
     </div>
   )
 }

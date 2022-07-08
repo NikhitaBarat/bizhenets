@@ -1,0 +1,43 @@
+.help-card {
+    margin-top: 5rem;
+    border-top: 1px solid rgb(135, 135, 135);
+    border-bottom: 1px solid rgb(135, 135, 135);
+    display: flex;
+    justify-content: center;
+    padding: 0 4rem;
+}
+
+.help-card-container {
+    display: flex;
+}
+
+.homeless-img {
+    height: 20rem;
+    margin: 4rem 5rem;
+}
+
+
+.help-content {
+    font-size: 2.5rem;
+    line-height: 1rem;
+}
+
+.helphero-left,
+.helphero-right {
+    padding: 0 10rem;
+}
+
+.ukr-home-brsh {
+    height: 25rem;
+}
+
+.helphero-left {
+    display: flex;
+    border-right: 1px solid rgb(135, 135, 135);
+}
+
+.left-content-help {
+    position: relative;
+    margin-left: -10rem;
+    margin-top: 5rem;
+}
