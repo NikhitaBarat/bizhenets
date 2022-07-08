@@ -1,0 +1,70 @@
+.application-card {
+    display: flex;
+    justify-content: center;
+    margin-top: 5rem;
+}
+
+.application-img-sec {
+    display: flex;
+    justify-content: center;
+}
+.application-img {
+    height: 10rem;
+    width: 10rem;
+    border-radius: 10rem;
+    margin-bottom: 5rem;
+}
+.applying-to {
+    border-bottom: 1px solid white;
+    padding: .5rem 1rem;
+}
+.applicant-form {
+    width: 40rem;
+}
+
+.full-cover {
+    width: 100%;
+}
+
+.horz-section {
+    display: flex;
+}
+
+.half-cover {
+    flex: .5;
+}
+
+.applicant-inp {
+    margin: .5rem 0;
+    padding: .5rem 1rem;
+    font-family: 'Poppins', sans-serif;
+    outline: none;
+    border: none;
+    background: transparent;
+    color: #b0b0b0;
+    border-bottom: 1px solid white;
+}
+
+.applicant-inp::placeholder{
+    color: #b0b0b0;
+}
+.mrg-right {
+    margin-left: 1rem;
+}
+
+.submit-application {
+    width: 100%;
+    padding: .8rem 0;
+    margin-top: 1rem;
+    background: transparent;
+    border: 1px solid #b0b0b0;
+    color: #b0b0b0;
+    cursor: pointer;
+    transition: all .2s;
+}
+
+.submit-application:hover{
+    border: 1px solid white;
+    color: white;
+
+}
