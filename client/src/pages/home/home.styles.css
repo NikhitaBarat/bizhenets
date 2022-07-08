@@ -1,0 +1,21 @@
+.home-bg {
+    position: fixed;
+    filter: blur(250px);
+    z-index: -2;
+}
+
+.spread-1{
+    background-color: #3B59C5;
+    height: 400px;
+    width: 400px;
+    margin-left: -30rem;
+    margin-top: 1rem;
+}
+
+.spread-2{
+    background-color: #fdee1f;
+    height: 400px;
+    width: 400px;
+    margin-left: 80rem;
+    margin-top: 5rem; 
+}
