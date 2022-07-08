@@ -1,0 +1,31 @@
+
+.logo {
+    height: 3.5rem;
+}
+
+header {
+    padding: .5rem 2rem;
+}
+
+.header-content {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 2px solid white;
+    padding: 0 1rem;
+}
+
+.nav-options {
+    display: flex;
+}
+
+.nav-item {
+    margin-left: 5rem;
+    list-style: none;
+}
+
+header a {
+    text-decoration: none;
+    color: inherit;
+}
+
+
