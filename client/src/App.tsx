@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import { Home, Houselisting, Translator, Hostdashboard } from './pages';
+import { Home, Houselisting, Translator, Hostdashboard, Team } from './pages';
 import { Header, Footer } from './components';
 import { Routes, Route } from 'react-router-dom';
 
@@ -12,6 +12,7 @@ function App() {
         <Route index element={<Home/>} />
         <Route path="listings" element={<Houselisting />}/>
         <Route path="translator" element={<Translator />}/>
+        <Route path="team" element={<Team />}/>
         <Route path="host/dashboard" element={<Hostdashboard />}/>
       </Routes>
       <Footer />
