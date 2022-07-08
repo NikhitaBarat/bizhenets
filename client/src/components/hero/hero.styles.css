@@ -1,0 +1,54 @@
+.ukr-map {
+    height: 20rem;
+}
+.hero-content h1{
+    font-size: 4rem;
+    line-height: .2rem;
+    text-align: right;
+
+}
+
+.mid-cont {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.line {
+    height: .3rem;
+    width: 3rem;
+    margin-right: 1rem;
+    border-radius: 2rem;
+    background-color: white;
+}
+
+.hero-container {
+    display: flex;
+    margin-top: 4rem;
+}
+
+.hero-section {
+    display: flex;
+    justify-content: center;
+}
+
+.hero-content {
+    padding: 0 5rem;
+}
+
+.support-now-container {
+    border: 1px solid white;
+    /* height: 2.5rem; */
+    display: flex;
+    align-items: center;
+    border-radius: 5px;
+    cursor: pointer;
+    padding: 1rem;
+}
+
+.support-now-container button {
+    background: transparent;
+    color: white;
+    outline: none;
+    border: none;
+}
